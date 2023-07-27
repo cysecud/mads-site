@@ -7,7 +7,7 @@ weight: 10
 sidebar_right: sidebar3
 draft: false
 ---
-
+
 Modern systems are increasingly decentralised and autonomous; therefore their implementation is increasingly difficult and error prone. These systems should guarantee continuous service, be resilient to faults, self-adaptable to changes, and resistant to security attacks; in particular, sensitive data must be kept confidential and user privacy and anonymity preserved. This is even more important in the case of embedded an cyber-physical systems, where a software misbehaviour may have disruptive effects on the surrounding environment. The Laboratory of _Models and Applications and Distributed Systems_ (MADS) aims at contributing effective answers for the correct design and implementation of distributed, autonomous, embedded systems. In particular we focus on
 
 *   formal models for supporting the correct design of trustworthy distributed systems

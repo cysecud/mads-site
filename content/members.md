@@ -2,11 +2,12 @@
 title: 'People'
 menu: main
 date: Tue, 29 Oct 2013 13:50:43 +0000
+weight: 11
 sidebar_right: sidebar3
 draft: false
 ---
 
-Actual members
+### Actual members
 
 *   [Marino Miculan](http://www.dimi.uniud.it/~marino.miculan) (associate professor, head & founder)
 *   [Pietro Di Gianantonio](http://www.dimi.uniud.it/~pietro.digianantonio) (associate professor)
@@ -17,7 +18,7 @@ Actual members
 *   Matteo Paier (Master student)
 *   Daniel Tosone (Master student)
 
-Past members:
+### Past members:
 
 *   Alessio Chiapperini (Master student)
 *   Hristina Stevanovska (BSc student)

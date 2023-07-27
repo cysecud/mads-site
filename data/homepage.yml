@@ -1,10 +1,10 @@
 banner:
   enable: true
   image: "images/Cybersecurity-2018.jpg"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
-  button:
-    contents: "Learn More"
-    url: "#"
+#  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+#  button:
+#    contents: "Learn More"
+#    url: "#"
 items:
   - type: highlights
     items_per_row: 3
