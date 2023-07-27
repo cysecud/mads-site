@@ -1,0 +1,37 @@
+<!--
+<section>
+    <h3>Just a Subheading</h3>
+    <p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
+    Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
+    Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis et nisi etiam.</p>
+    <footer>
+        <a href="#" class="button">Continue Reading</a>
+    </footer>
+</section> 
+-->
+{{ $image := resources.Get "images/logo-uniud-v4.png" }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+
+<input type="text" id="searchInput" placeholder="Search...">
+<br>
+<button onclick="search()">Search</button>
+
+<div id="results"></div>
+<br>
+<section>
+    <h2>News & Events</h2>
+    <ul class="links">
+        <h6><a href="#">LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point</a></h6>
+        <hr class="separator">
+        <h6><a href="#">New members of the MADS lab</a></h6>
+        <hr class="separator">
+        <h6><a href="#">We are hiring! Two fellowship grants within the “IT MATTERS” project</a></h6>
+        <hr class="separator">
+        <h6><a href="#">“Easter’s Eve”: new version of jLibBig released</a></h6>
+        <hr class="separator">
+        <h6><a href="#">IT MATTERS starts!</a></h6>
+    </ul>
+    <footer>
+        <a href="#" class="button">More Random Links</a>
+    </footer>
+</section>

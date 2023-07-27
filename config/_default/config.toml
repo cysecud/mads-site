@@ -1,6 +1,6 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Arcana for Hugo"
+title = "MADS - Models and Applications of Distributed Systems"
 theme = "hugo-arcana"
 copyright = "© Untitled. All rights reserved"
 

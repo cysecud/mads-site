@@ -1,5 +1,5 @@
 ---
-title: Home
-menu: main
-weight: 10
+#title: Home
+#menu: main
+#weight: 10
 ---

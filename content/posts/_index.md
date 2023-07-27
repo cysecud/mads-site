@@ -1,5 +1,5 @@
 ---
-title: Posts
-menu: main
-weight: 20
+#title: Posts
+#menu: main
+#weight: 20
 ---
