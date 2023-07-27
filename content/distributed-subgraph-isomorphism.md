@@ -5,10 +5,9 @@ sidebar_right: sidebar3
 draft: false
 ---
 
-Un algoritmo distribuito per il problema del subgraph isomorphism
-=================================================================
+### Un algoritmo distribuito per il problema del subgraph isomorphism
 
-### Anna Becchi - Idriss Riouak
+#### Anna Becchi - Idriss Riouak
 
 Si consideri un sistema multi-agente, in cui una flotta di agenti comunicanti (ad esempio robot o droni) stanno visitando un ambiente sconosciuto (un edificio, un territorio) ed ognuno sta raccogliendo gradualmente informazioni sulla topologia del luogo. Ogni nodo ha una visione soggettiva ed incompleta del contesto e, a causa di limitazione di banda, tempo o memoria dei nodi, non esiste un nodo che ha la visione complessiva del grafo dell'ambiente. In tale situazione, sorge il problema del _distributed subgraph isomorphism_, ossia trovare un isomorfismo tra un certo grafo dato e un sottografo del grafo host complessivo (e distribuito). Questo problema può essere usato per determinare vie di fuga o di accesso a zone impervie, specifici ambienti, ecc. In questo progetto si presenta una soluzione a tale problema, partendo dalla definizione formale fino ad arrivare all'implementazione che simula l'ambiente fisico di esecuzione, con interfaccia grafica e una classe di file di test.
 

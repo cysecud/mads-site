@@ -9,21 +9,18 @@ items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
-      icon: fa-paper-plane
+    - title: Call us
+      icon: fa-phone #fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
+        (+39) 0432 558486 
+    - title: Mail us
+      icon: fa-envelope #fa-pencil-alt
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wrench
+        mads@uniud.it 
+    - title: Reach us
+      icon: fa-map-marker-alt #fa-wrench
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        Via delle Scienze 206, 33100, Udine, Italy 
 
 #  - type: heading
 #    heading: A gigantic heading you can use for whatever

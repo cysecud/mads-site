@@ -2,7 +2,7 @@ baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "MADS - Models and Applications of Distributed Systems"
 theme = "hugo-arcana"
-copyright = "© Untitled. All rights reserved"
+copyright = "Copyright © 2023 MADS lab - Models and Applications of Distributed Systems"
 
 [taxonomies]
     tag = "tags"
