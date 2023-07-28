@@ -5,7 +5,8 @@ sidebar_right: sidebar3
 draft: false
 ---
 
-### Un algoritmo distribuito per il problema del subgraph isomorphism
+Un algoritmo distribuito per il problema del subgraph isomorphism
+=================================================================
 
 #### Anna Becchi - Idriss Riouak
 
@@ -19,5 +20,7 @@ L’ambiente di sviluppo è stato scelto in modo da poter evidenziare solamente 
 2.  Send, il messaggio viene ricevuto da un solo attore iscritto al cluster, eventualmente speciﬁcando la preferenza location aﬃnity.
 
 ### Screenshots
-
-[![](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img1-150x150.png)](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img1.png) [![](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img2-150x150.png)](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img2.png) [![](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img3-150x150.png)](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img3.png) [![](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img4-150x150.png)](http://mads.uniud.it/wordpress/wp-content/uploads/2018/08/img4.png)
+![ops!](../images/img1.png)
+![ops!](../images/img2.png)
+![ops!](../images/img3.png)
+![ops!](../images/img4.png)
