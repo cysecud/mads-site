@@ -3,6 +3,7 @@ title: 'Contacts'
 menu: main
 date: Tue, 29 Oct 2013 14:57:21 +0000
 weight: 30
+sidebar_right: sidebar3 
 draft: false
 ---
 
@@ -12,5 +13,8 @@ The MADS Lab is located to the [Department of Mathematics and Computer Science](
 
 **Phone**: (+39) 043255-8486 
 
-**Email**: mads@uniud.it \[mapsmarker marker="1"\]
+**Email**: mads@uniud.it 
+
+{{< markerMap >}}
+
 
