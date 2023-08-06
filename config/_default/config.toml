@@ -1,6 +1,6 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "MADS - Models and Applications of Distributed Systems"
+
 theme = "hugo-arcana"
 copyright = "Copyright © 2023 MADS lab - Models and Applications of Distributed Systems"
 
@@ -87,3 +87,4 @@ copyright = "Copyright © 2023 MADS lab - Models and Applications of Distributed
             enabled = true
             header = "Get In Touch"
             action = ""
+

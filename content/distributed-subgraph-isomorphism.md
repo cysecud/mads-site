@@ -3,6 +3,7 @@ title: 'Distributed subgraph isomorphism'
 date: Thu, 30 Aug 2018 20:07:34 +0000
 sidebar_right: sidebar3
 draft: false
+weight: 25
 ---
 
 Un algoritmo distribuito per il problema del subgraph isomorphism
