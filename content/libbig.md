@@ -3,6 +3,7 @@ title: 'jLibBig'
 date: Wed, 30 Oct 2013 12:36:29 +0000
 draft: false
 sidebar_right: sidebar3
+weight: 24
 ---
 
 A library for Bigraphs and Bigraphic Reactive Systems.
