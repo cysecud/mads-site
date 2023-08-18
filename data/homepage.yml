@@ -5,7 +5,10 @@ banner:
 #  button:
 #    contents: "Learn More"
 #    url: "#"
+
 items:
+  - type: cta
+    contents: News & Events
   - type: highlights
     items_per_row: 3
     items:
@@ -21,7 +24,7 @@ items:
       icon: fa-map-marker-alt #fa-wrench
       content: >
         Via delle Scienze 206, 33100, Udine, Italy 
-
+        
 #  - type: heading
 #    heading: A gigantic heading you can use for whatever
 #    contents: With a much smaller subtitle hanging out just below it

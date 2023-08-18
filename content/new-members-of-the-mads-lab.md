@@ -2,7 +2,7 @@
 title: 'New members of the MADS lab'
 date: Fri, 02 Oct 2020 07:57:58 +0000
 draft: false
-tags: ['Events']
+tags: ['admin', 'Events', 'no responses']
 weight: 46
 sidebar_right: sidebar3
 #TODO mettere link a twitter, facebook e google+(ma chi lo usa?)

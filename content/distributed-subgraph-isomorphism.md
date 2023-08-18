@@ -4,6 +4,7 @@ date: Thu, 30 Aug 2018 20:07:34 +0000
 sidebar_right: sidebar3
 draft: false
 weight: 25
+custom_class: custom-title-font-dsi
 ---
 
 Un algoritmo distribuito per il problema del subgraph isomorphism
@@ -21,7 +22,8 @@ L’ambiente di sviluppo è stato scelto in modo da poter evidenziare solamente 
 2.  Send, il messaggio viene ricevuto da un solo attore iscritto al cluster, eventualmente speciﬁcando la preferenza location aﬃnity.
 
 ### Screenshots
-![ops!](../images/img1.png)
-![ops!](../images/img2.png)
-![ops!](../images/img3.png)
-![ops!](../images/img4.png)
+
+[![ops!](/images/img1.png)](/images/img1.png)
+[![ops!](/images/img2.png)](/images/img2.png)
+[![ops!](/images/img3.png)](/images/img3.png)
+[![ops!](/images/img4.png)](/images/img4.png)

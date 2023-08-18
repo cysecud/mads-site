@@ -2,9 +2,10 @@
 title: 'LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point'
 date: Fri, 16 Sep 2022 14:23:17 +0000
 draft: false
-#tags: ['Cybersecurity', 'Industrial Partnership', 'Trustworthy Smart Systems']
+tags: ['admin', 'Cybersecurity', 'Industrial Partnership', 'Trustworthy Smart Systems', 'no responses']
 sidebar_right: sidebar3
 weight: 45
+custom_class: custom-title-font-lord
 #TODO mettere link a twitter, facebook e google+(ma chi lo usa?)
 ---
 
@@ -31,7 +32,7 @@ But there was something stranger in the port scan report.
 
 To configure the access point, the manual describes only one way: via web interface. But we found that a **telnet server** was listening on the default port (23/TCP). Maybe there is also a CLI interface via telnet? Connecting to that port we receive a login prompt, for which the admin credentials of the web interface do not work:
 
-[![](https://mads.uniud.it/wp-content/uploads/2022/10/telnetap.jpg)](https://mads.uniud.it/wp-content/uploads/2022/10/telnetap.jpg)
+[![](/images/telnetap.jpg)](/images/telnetap.jpg)
 
 This is a hint that this telnet server is not meant to be used by the user or admin. So, let’s see if we can exploit this access retrieving those credentials.
 
@@ -41,7 +42,7 @@ Using the [firmware mod kit](https://github.com/rampageX/firmware-mod-kit) the
 
 In the “/etc/inittab” we can locate the main init script, which is named “/etc/rcS”. Looking into it we found our treasure: the root password is set with a fixed value, every time the AP is rebooted.
 
-[![](https://mads.uniud.it/wp-content/uploads/2022/10/image-1.png)](https://mads.uniud.it/wp-content/uploads/2022/10/image-1.png)
+[![](/images/image-1.png)](/images/image-1.png)
 
 Using these credentials, any user connected to the AP (even via WiFi) can immediately login as root, and therefore gain the complete control of the AP – the worst possible scenario. (Password is obfuscated in order to not disclose the specific credentials.)
 
@@ -57,7 +58,7 @@ A firmware update (Ver 2.01e) was provided by Oring in a week. Before upgrading 
 
 Using the same tools of the trade we unpacked the new firmware and re-check the init-script:
 
-[![](https://mads.uniud.it/wp-content/uploads/2022/10/image.png)](https://mads.uniud.it/wp-content/uploads/2022/10/image.png)
+[![](/images/image.png)](/images/image.png)
 
 The image shows a side-by-side comparison obtained by the diff command. The old version of the file is on the left the new is on the right. The red lines are what is missing from the old file in the new (the password is obfuscated as before).
 

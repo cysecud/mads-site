@@ -7,6 +7,9 @@ copyright = "Copyright © 2023 MADS lab - Models and Applications of Distributed
 [taxonomies]
     tag = "tags"
 
+
+start = "pandoc -s content/publication.md -o static/publications.html --bibliography=publications.bib"
+
 [params]
     description = "A business/corporate style responsive site template."
     show_post_dates = false

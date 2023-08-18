@@ -1,0 +1,39 @@
+<!-- campi presi in considerazione: 
+author, -->
+<!DOCTYPE html>
+<html>
+    {% set current = namespace(year=0) %}
+<body>
+    
+    {% for entry in entries %}
+        {% set year = entry['year'] | int %}
+        {% if year != current.year %}
+        {# {{ year }} {{ current.year }} #}
+            {% set current.year = year %}
+            <h3>{{ current.year }}</h3>
+        {% endif %}
+       <div class="article">
+            <li style="margin-top:0.5em;">{{ entry['author']}}.  {{ entry['title'] }}.
+            <em>{{ entry['journal'] }},</em> 
+            {% if entry['pages'] is defined %}
+                {{ entry['volume']}}:{{ entry['pages'] }}
+            {% else %}
+                {{ entry['volume']}},
+            {% endif %}
+            {{ year }}.
+            {% if entry['doi'] is defined %}
+                <a href="https://dx.doi.org/{{ entry['doi'] }}"><i class="fas fa-link"></i></a>
+            {% endif %}
+            {% if entry['url'] is defined %}
+                <a href="{{ entry['url'] }}"><i class="fas fa-folder-open" style="color:rgb(245, 216, 51)"></i></a>
+            {% endif %}
+            {% if entry['pdf'] is defined %}
+                <a href="{{ entry['pdf'] }}"><i class="fas fa-file-pdf" style="color:red"></i></a>
+            {% endif %}
+            {{ entry['series'] }}
+            </li>
+        </div>
+    {% endfor %} 
+</body>
+</html>
+<!-- template delle pubblicazioni -->

@@ -2,9 +2,10 @@
 title: '"Easter''s Eve": new version of jLibBig released'
 date: Sat, 11 Apr 2020 19:48:00 +0000
 draft: false
-tags: ['Bigraphs', 'Research']
+tags: ['admin', 'Bigraphs', 'Research', 'no responses']
 weight: 48
 sidebar_right: sidebar3
+#custom_class: custom-title-font-easter
 #TODO mettere link a twitter, facebook e google+(ma chi lo usa?)
 ---
 

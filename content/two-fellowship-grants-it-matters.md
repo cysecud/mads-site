@@ -2,9 +2,10 @@
 title: 'We are hiring! Two fellowship grants within the "IT MATTERS" project'
 date: Mon, 11 May 2020 23:06:30 +0000
 draft: false
-tags: ['Research']
+tags: ['admin', 'Research', 'no responses']
 weight: 47
 sidebar_right: sidebar3
+custom_class: custom-title-font-hiring
 #TODO mettere link a twitter, facebook e google+(ma chi lo usa?)
 ---
 

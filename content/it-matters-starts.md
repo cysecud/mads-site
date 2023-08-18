@@ -2,7 +2,7 @@
 title: 'IT MATTERS starts!'
 date: Wed, 16 Oct 2019 21:39:50 +0000
 draft: false
-tags: ['Events', 'Research', 'Trustworthy Smart Systems']
+tags: ['admin', 'Events', 'Research', 'Trustworthy Smart Systems', 'no responses']
 weight: 49
 sidebar_right: sidebar3
 #TODO mettere link a twitter, facebook e google+(ma chi lo usa?)
