@@ -1,0 +1,22 @@
+<!-- campi presi in considerazione: 
+"author". "title". editors: "editor", "booktitle", "journal", 
+volume "volume" of "series", page "pages", "publisher" "year".  -->
+<!DOCTYPE html>
+<html>
+    {% set current = namespace(year=0) %}
+<body>
+    
+    {% for entry in entries %}
+        {% set year = entry['year'] | int %}
+        {% if year != current.year %}
+        {# {{ year }} {{ current.year }} #}
+            {% set current.year = year %}
+            <h3>{{ current.year }}</h3>
+        {% endif %}
+       <div class="article">
+            
+        </div>
+    {% endfor %} 
+</body>
+</html>
+<!-- template 2 delle pubblicazioni, ha il problema dell'ordine delle pubblicazioni -->

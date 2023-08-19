@@ -1,9 +1,12 @@
 .PHONY: all run generate_publications
 
-all: generate_publications run
+all: py_publications run
 
 run: 
 	/usr/bin/hugo server
+
+py_publications:
+	python3 bib2html.py
 
 generate_publications:
 	pandoc -s content/pub.md -o themes/hugo-arcana/layouts/shortcodes/publications.html --bibliography=publications.bib --template=themes/hugo-arcana/layouts/partials/bibtex-template.html

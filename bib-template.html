@@ -1,39 +1,54 @@
 <!-- campi presi in considerazione: 
-author, -->
+"author". "title". editors: "editor", "booktitle", "journal", 
+volume "volume" of "series", page "pages", "publisher", "year".  -->
+
 <!DOCTYPE html>
 <html>
-    {% set current = namespace(year=0) %}
 <body>
-    
-    {% for entry in entries %}
-        {% set year = entry['year'] | int %}
-        {% if year != current.year %}
-        {# {{ year }} {{ current.year }} #}
-            {% set current.year = year %}
-            <h3>{{ current.year }}</h3>
-        {% endif %}
-       <div class="article">
-            <li style="margin-top:0.5em;">{{ entry['author']}}.  {{ entry['title'] }}.
-            <em>{{ entry['journal'] }},</em> 
-            {% if entry['pages'] is defined %}
-                {{ entry['volume']}}:{{ entry['pages'] }}
-            {% else %}
-                {{ entry['volume']}},
-            {% endif %}
-            {{ year }}.
-            {% if entry['doi'] is defined %}
-                <a href="https://dx.doi.org/{{ entry['doi'] }}"><i class="fas fa-link"></i></a>
-            {% endif %}
-            {% if entry['url'] is defined %}
-                <a href="{{ entry['url'] }}"><i class="fas fa-folder-open" style="color:rgb(245, 216, 51)"></i></a>
-            {% endif %}
-            {% if entry['pdf'] is defined %}
-                <a href="{{ entry['pdf'] }}"><i class="fas fa-file-pdf" style="color:red"></i></a>
-            {% endif %}
-            {{ entry['series'] }}
+    {% for year, publications in publications_by_year.items() %}
+    <h3>{{ year }}</h3>
+    <div class="year-articles">
+        {% for entry in publications %}
+        <div class="article">
+            <li style="margin-top:0.5em;">
+                {{ entry['author'] }}.      
+                {{ entry['title'] }}.
+                {% if entry['editor'] is defined %}
+                    editors: {{ entry['editor'] }},
+                {% endif %}
+                {% if entry['booktitle'] is defined %}
+                    {{ entry['booktitle'] }},
+                {% endif %}
+                {% if entry['journal'] is defined %}
+                    <em>{{ entry['journal'] }},</em> 
+                {% endif %}
+                {% if entry['series'] is defined %}
+                    volume {{ entry['volume']}} of {{ entry['series']}},
+                {% else %}
+                    {{ entry['volume']}},
+                {% endif %}
+                {% if entry['pages'] is defined %}
+                    {{ entry['pages']}},
+                {% endif %}
+                {% if entry['publisher'] is defined %}
+                    {{ entry['publisher']}},
+                {% endif %}
+                {{ year }}.
+                {% if entry['doi'] is defined %}
+                    <a href="https://dx.doi.org/{{ entry['doi'] }}"><i class="fas fa-link"></i></a>
+                {% endif %}
+                {% if entry['url'] is defined %}
+                    <a href="{{ entry['url'] }}"><i class="fas fa-folder-open" style="color:rgb(245, 216, 51)"></i></a>
+                {% endif %}
+                {% if entry['pdf'] is defined %}
+                    <a href="{{ entry['pdf'] }}"><i class="fas fa-file-pdf" style="color:red"></i></a>
+                {% endif %}
             </li>
         </div>
-    {% endfor %} 
+        {% endfor %}
+    </div>
+    {% endfor %}
 </body>
 </html>
+
 <!-- template delle pubblicazioni -->
