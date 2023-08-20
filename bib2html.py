@@ -5,6 +5,7 @@
 import bibtexparser
 from jinja2 import Environment, FileSystemLoader
 from collections import OrderedDict
+import time
 
 # Apri il file BibTeX
 with open('publications.bib') as bibtex_file:
@@ -14,7 +15,8 @@ with open('publications.bib') as bibtex_file:
 entries = bib_database.entries
 
 
-# Raggruppa le pubblicazioni per anno
+#Raggruppa le pubblicazioni per anno
+#se si desidera raggrupparle per altri campi, basta modificare l'entry
 publications_by_year = {}
 for entry in entries:
     year = entry['year']
@@ -23,17 +25,27 @@ for entry in entries:
     publications_by_year[year].append(entry) #aggiunge l'entry nella struttura del suo anno
 
 #Ordina le annate in modo discendente
+#se si vuole ordinare stringhe -> reverse=False
 sorted_years = sorted(publications_by_year.keys(), reverse=True)
 ordered_publications_by_year = OrderedDict((year, publications_by_year[year]) for year in sorted_years)
 
-# Carica il template
+#Carica il template
 env = Environment(loader=FileSystemLoader('.'))
 template = env.get_template('bib-template.html')
 
-# Genera l'HTML
+start_time = time.time()
+
+#Genera l'HTML
 html_output = template.render(publications_by_year=ordered_publications_by_year)
 #html_output = template.render(entries=entries) vecchia versione
 
-# Salva l'HTML in un file
+#Calcola il tempo di generazione del template
+#test empirico: per generare 92 voci ci mette 2,4 millisecondi
+end_time = time.time()
+execution_time = end_time - start_time
+print(f"Tempo di esecuzione: {execution_time:.4f} secondi")
+
+
+#Salva l'HTML in un file
 with open('themes/hugo-arcana/layouts/shortcodes/publicatos.html', 'w') as output_file:
     output_file.write(html_output)
