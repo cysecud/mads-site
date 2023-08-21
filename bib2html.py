@@ -6,6 +6,7 @@ import bibtexparser
 from jinja2 import Environment, FileSystemLoader
 from collections import OrderedDict
 import time
+from htmlmin import minify
 
 # Apri il file BibTeX
 with open('publications.bib') as bibtex_file:
@@ -13,7 +14,6 @@ with open('publications.bib') as bibtex_file:
 
 # Prepara i dati per il template
 entries = bib_database.entries
-
 
 #Raggruppa le pubblicazioni per anno
 #se si desidera raggrupparle per altri campi, basta modificare l'entry
@@ -39,6 +39,9 @@ start_time = time.time()
 html_output = template.render(publications_by_year=ordered_publications_by_year)
 #html_output = template.render(entries=entries) vecchia versione
 
+#Minifica l'HTML
+minified_html_output = minify(html_output, remove_comments=True)
+
 #Calcola il tempo di generazione del template
 #test empirico: per generare 92 voci ci mette 2,4 millisecondi
 end_time = time.time()
@@ -47,5 +50,8 @@ print(f"Tempo di esecuzione: {execution_time:.4f} secondi")
 
 
 #Salva l'HTML in un file
-with open('themes/hugo-arcana/layouts/shortcodes/publicatos.html', 'w') as output_file:
-    output_file.write(html_output)
+#operazione onerosa ma necessaria
+with open('themes/hugo-arcana/layouts/shortcodes/publication.html', 'w') as output_file:
+    output_file.write(minified_html_output)
+
+#tutto il processo ci mette 0.5164 secondi
