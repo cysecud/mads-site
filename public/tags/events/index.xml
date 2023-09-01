@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on MADS - Models and Applications of Distributed Systems</title>
+    <link>https://Breb980.github.io/mads-hugo-site/tags/events/</link>
+    <description>Recent content in Events on MADS - Models and Applications of Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 07:57:58 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New members of the MADS lab</title>
+      <link>https://Breb980.github.io/mads-hugo-site/new-members-of-the-mads-lab/</link>
+      <pubDate>Fri, 02 Oct 2020 07:57:58 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/new-members-of-the-mads-lab/</guid>
+      <description>We have the great pleasure to welcome two new members of the MADS laboratory: Michele Pasqua and Claude Stolze. Michele comes from the University of Verona, Italy, and he is an expert in formal models and abstract interpretation, especially for IoT applications. Claude comes from IRIF, the Research Institute on the Foundations of Computer Science at the University of Paris, and has strong expertise in type theory and proof assistants. Welcome!</description>
+    </item>
+    
+    <item>
+      <title>IT MATTERS starts!</title>
+      <link>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</link>
+      <pubDate>Wed, 16 Oct 2019 21:39:50 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</guid>
+      <description>The kick-off meeting of the PRIN 2017 project &amp;ldquo;IT MATTERS&amp;rdquo; has been in Pisa, on October 14. About 40 people have gathered, from the universities of Pisa, Udine, Camerino, the IMT of Lucca, the GSSI of L&amp;rsquo;Aquila and the CNR. The project is about trustworthiness of &amp;ldquo;smart systems&amp;rdquo;, so the MADS lab will have the possibility to work in strict contact with the top research groups of the field, in Italy and abroad.</description>
+    </item>
+    
+  </channel>
+</rss>

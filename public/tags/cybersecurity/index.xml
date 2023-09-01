@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on MADS - Models and Applications of Distributed Systems</title>
+    <link>https://Breb980.github.io/mads-hugo-site/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on MADS - Models and Applications of Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 14:23:17 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point</title>
+      <link>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</link>
+      <pubDate>Fri, 16 Sep 2022 14:23:17 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</guid>
+      <description>Lorenzo Bazzana, Marino Miculan (MADS lab, University of Udine)
+Michele Codutti (Danieli Automation)
+Operation Technology, i.e. the hardware and software that monitor and control industrial equipment, assets, processes and events, is required to respect high standards of security and reliability. Unfortunately, the analysis and security assessment of OT is less mature than that of Information Technology. In fact, products and components used in industrial plants often have issues that must be dealt with.</description>
+    </item>
+    
+    <item>
+      <title>The First Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/first/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/first/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+  </channel>
+</rss>
