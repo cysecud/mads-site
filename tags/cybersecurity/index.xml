@@ -19,15 +19,5 @@ Michele Codutti (Danieli Automation)
 Operation Technology, i.e. the hardware and software that monitor and control industrial equipment, assets, processes and events, is required to respect high standards of security and reliability. Unfortunately, the analysis and security assessment of OT is less mature than that of Information Technology. In fact, products and components used in industrial plants often have issues that must be dealt with.</description>
     </item>
     
-    <item>
-      <title>The First Thing</title>
-      <link>https://Breb980.github.io/mads-hugo-site/posts/first/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Breb980.github.io/mads-hugo-site/posts/first/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
   </channel>
 </rss>
