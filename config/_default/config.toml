@@ -1,14 +1,13 @@
-baseURL = "https://example.org/"
+baseURL = "https://Breb980.github.io/mads-hugo-site"
 languageCode = "en-us"
 
 theme = "hugo-arcana"
 copyright = "Copyright © 2023 MADS lab - Models and Applications of Distributed Systems"
 
+
 [taxonomies]
     tag = "tags"
 
-
-start = "pandoc -s content/publication.md -o static/publications.html --bibliography=publications.bib"
 
 [params]
     description = "A business/corporate style responsive site template."
