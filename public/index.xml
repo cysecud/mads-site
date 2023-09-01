@@ -14,7 +14,7 @@
       <pubDate>Tue, 24 Sep 2013 11:59:55 +0000</pubDate>
       
       <guid>https://Breb980.github.io/mads-hugo-site/about/</guid>
-      <description>Modern systems are increasingly decentralised and autonomous; therefore their implementation is increasingly difficult and error prone. These systems should guarantee continuous service, be resilient to faults, self-adaptable to changes, and resistant to security attacks; in particular, sensitive data must be kept confidential and user privacy and anonymity preserved. This is even more important in the case of embedded an cyber-physical systems, where a software misbehaviour may have disruptive effects on the surrounding environment.</description>
+      <description>prova Modern systems are increasingly decentralised and autonomous; therefore their implementation is increasingly difficult and error prone. These systems should guarantee continuous service, be resilient to faults, self-adaptable to changes, and resistant to security attacks; in particular, sensitive data must be kept confidential and user privacy and anonymity preserved. This is even more important in the case of embedded an cyber-physical systems, where a software misbehaviour may have disruptive effects on the surrounding environment.</description>
     </item>
     
     <item>
@@ -133,66 +133,6 @@ With respect to the previous one, these are the main improvements:
       
       <guid>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</guid>
       <description>The kick-off meeting of the PRIN 2017 project &amp;ldquo;IT MATTERS&amp;rdquo; has been in Pisa, on October 14. About 40 people have gathered, from the universities of Pisa, Udine, Camerino, the IMT of Lucca, the GSSI of L&amp;rsquo;Aquila and the CNR. The project is about trustworthiness of &amp;ldquo;smart systems&amp;rdquo;, so the MADS lab will have the possibility to work in strict contact with the top research groups of the field, in Italy and abroad.</description>
-    </item>
-    
-    <item>
-      <title>The Sixth Thing</title>
-      <link>https://Breb980.github.io/mads-hugo-site/posts/sixth/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Breb980.github.io/mads-hugo-site/posts/sixth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The Fifth Thing</title>
-      <link>https://Breb980.github.io/mads-hugo-site/posts/fifth/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Breb980.github.io/mads-hugo-site/posts/fifth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The Fourth Thing</title>
-      <link>https://Breb980.github.io/mads-hugo-site/posts/fourth/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Breb980.github.io/mads-hugo-site/posts/fourth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The Third Thing</title>
-      <link>https://Breb980.github.io/mads-hugo-site/posts/third/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Breb980.github.io/mads-hugo-site/posts/third/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The Second Thing</title>
-      <link>https://Breb980.github.io/mads-hugo-site/posts/second/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Breb980.github.io/mads-hugo-site/posts/second/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The First Thing</title>
-      <link>https://Breb980.github.io/mads-hugo-site/posts/first/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Breb980.github.io/mads-hugo-site/posts/first/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     
     <item>
