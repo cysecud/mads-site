@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bigraphs on MADS - Models and Applications of Distributed Systems</title>
+    <link>https://Breb980.github.io/mads-hugo-site/tags/bigraphs/</link>
+    <description>Recent content in Bigraphs on MADS - Models and Applications of Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
+    <lastBuildDate>Sat, 11 Apr 2020 19:48:00 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/tags/bigraphs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;Easter&#39;s Eve&#34;: new version of jLibBig released</title>
+      <link>https://Breb980.github.io/mads-hugo-site/easters-eve/</link>
+      <pubDate>Sat, 11 Apr 2020 19:48:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/easters-eve/</guid>
+      <description>A new version of jLibBig, the Java Library for Bigraphs, has been released today. The new version is codenamed &amp;ldquo;Easter&amp;rsquo;s Eve&amp;rdquo;.
+With respect to the previous one, these are the main improvements:
+ Added the support for (Local) Directed Bigraphs, a generalisation of pure bigraphs where the link graph structure is more symmetric. Ported the Matching algorithm to version 4 of Choco solver. Various bug fixings and improvements.  As usual, the JAR library is available for download at the corresponding web page.</description>
+    </item>
+    
+  </channel>
+</rss>

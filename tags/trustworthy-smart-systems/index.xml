@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trustworthy Smart Systems on MADS - Models and Applications of Distributed Systems</title>
+    <link>https://Breb980.github.io/mads-hugo-site/tags/trustworthy-smart-systems/</link>
+    <description>Recent content in Trustworthy Smart Systems on MADS - Models and Applications of Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 14:23:17 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/tags/trustworthy-smart-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point</title>
+      <link>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</link>
+      <pubDate>Fri, 16 Sep 2022 14:23:17 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</guid>
+      <description>Lorenzo Bazzana, Marino Miculan (MADS lab, University of Udine)
+Michele Codutti (Danieli Automation)
+Operation Technology, i.e. the hardware and software that monitor and control industrial equipment, assets, processes and events, is required to respect high standards of security and reliability. Unfortunately, the analysis and security assessment of OT is less mature than that of Information Technology. In fact, products and components used in industrial plants often have issues that must be dealt with.</description>
+    </item>
+    
+    <item>
+      <title>IT MATTERS starts!</title>
+      <link>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</link>
+      <pubDate>Wed, 16 Oct 2019 21:39:50 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</guid>
+      <description>The kick-off meeting of the PRIN 2017 project &amp;ldquo;IT MATTERS&amp;rdquo; has been in Pisa, on October 14. About 40 people have gathered, from the universities of Pisa, Udine, Camerino, the IMT of Lucca, the GSSI of L&amp;rsquo;Aquila and the CNR. The project is about trustworthiness of &amp;ldquo;smart systems&amp;rdquo;, so the MADS lab will have the possibility to work in strict contact with the top research groups of the field, in Italy and abroad.</description>
+    </item>
+    
+  </channel>
+</rss>

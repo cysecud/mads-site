@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MADS - Models and Applications of Distributed Systems</title>
+    <link>https://Breb980.github.io/mads-hugo-site/posts/</link>
+    <description>Recent content on MADS - Models and Applications of Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sixth Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/sixth/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/sixth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Fifth Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/fifth/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/fifth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Fourth Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/fourth/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/fourth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Third Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/third/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/third/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Second Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/second/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/second/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The First Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/first/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/first/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+  </channel>
+</rss>

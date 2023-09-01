@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MADS - Models and Applications of Distributed Systems</title>
+    <link>https://Breb980.github.io/mads-hugo-site/</link>
+    <description>Recent content on MADS - Models and Applications of Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 14:23:17 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://Breb980.github.io/mads-hugo-site/about/</link>
+      <pubDate>Tue, 24 Sep 2013 11:59:55 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/about/</guid>
+      <description>Modern systems are increasingly decentralised and autonomous; therefore their implementation is increasingly difficult and error prone. These systems should guarantee continuous service, be resilient to faults, self-adaptable to changes, and resistant to security attacks; in particular, sensitive data must be kept confidential and user privacy and anonymity preserved. This is even more important in the case of embedded an cyber-physical systems, where a software misbehaviour may have disruptive effects on the surrounding environment.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://Breb980.github.io/mads-hugo-site/members/</link>
+      <pubDate>Tue, 29 Oct 2013 13:50:43 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/members/</guid>
+      <description>Actual members  Marino Miculan (associate professor, head &amp;amp; founder) Pietro Di Gianantonio (associate professor) Ivan Scagnetto (assistant professor) Claude Stolze (postdoc) Michele Pasqua (postdoc) Davide Castelnovo (PhD student, Ciclo XXXV) Matteo Paier (Master student) Daniel Tosone (Master student)  Past members:  Alessio Chiapperini (Master student) Hristina Stevanovska (BSc student) Marco Florian (Master student) Marco Cossutta (Master student) Fabio Burco (MSc student) Luca Geatti (Master student) Federico Igne (Master student) Alessandro Saleri (Master student) Marco Peressotti (PhD student, Ciclo XXVIII) Alessio Mansutti Andrea Toneguzzo Marco Romanelli Giorgio Bacci (PhD student, Ciclo XXIV) Davide Grohmann (PhD student, Ciclo XXII) Carlo Maiero Marco Paviotti Ilaria Sambarino Matteo Cicuttin Emanuele D&amp;rsquo;Osualdo Caterina Urban  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://Breb980.github.io/mads-hugo-site/projects/</link>
+      <pubDate>Tue, 29 Oct 2013 14:56:35 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/projects/</guid>
+      <description>Current projects:  Methods and Tools for Trustworthy Smart Systems (IT MATTERS). (MiUR PRIN 2017FTXR7S) Efforts in the understanding of complex interacting systems (ENCASE) (UniUD PRID) The European research network on types for programming and verification (EUTYPES) (CA15123)  Past projects:  Compositionality, Interaction, Negotiation, Autonomicity for the future ICT society (CINA). (MiUR PRIN 2010LHT4KM) Reduction Systems: synthesis, refinement and verification of behavioural models (SisteR) (MiUR PRIN 20088HXMYN) Analysis of Reaction systems with Transitions systems (ART) (MiUR PRIN 2005015824) Types for Proofs and Programs (TYPES) (EU FP6 IST-CA-510996)  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://Breb980.github.io/mads-hugo-site/publications/</link>
+      <pubDate>Tue, 29 Oct 2013 14:56:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/publications/</guid>
+      <description>2022 Chiapperini, A. and Miculan, M. and Peressotti, M.. Computing (optimal) embeddings of directed bigraphs. Science of Computer Programming, 221, 2022.     Castelnovo, D. and Miculan, M.. Fuzzy Algebraic Theories. Proc. CSL 2022, Leibniz International Proceedings in Informatics, LIPIcs, 216, 2022.     Stolze, C. and Miculan, M. and Di Gianantonio, P.. Composable partial multiparty session types for open systems. Software and Systems Modeling, , 2022.</description>
+    </item>
+    
+    <item>
+      <title>Thesis &amp; Internships</title>
+      <link>https://Breb980.github.io/mads-hugo-site/thesis-internships/</link>
+      <pubDate>Tue, 29 Oct 2013 15:05:25 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/thesis-internships/</guid>
+      <description>Students can carry out thesis and trainings in the MADS lab., and in collaboration with the industrial partners. The main topics are:
+ formal systems, models &amp;amp; tools for concurrency: process calculi, computer aided formal reasoning; distributed systems &amp;amp; technologies: web applications, web services, frameworks of intelligent agents, mobile systems, distributed storage, Peer-to-Peer.  Below are listed some general thesis/internships proposals but we are always open to new ideas: if you have any idea related to distributed systems, let’s talk about it.</description>
+    </item>
+    
+    <item>
+      <title>jLibBig</title>
+      <link>https://Breb980.github.io/mads-hugo-site/libbig/</link>
+      <pubDate>Wed, 30 Oct 2013 12:36:29 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/libbig/</guid>
+      <description>A library for Bigraphs and Bigraphic Reactive Systems. Bigraphs and Bigraphical Reactive Systems are a modern, graphical calculus for the description of the syntax and semantics of systems in terms of the orthogonal notions of connectivity and locality but have been successfully applied also in other fields such as knowledge representation and manipulation. Bigraphs were proposed by Robin Milner and colleagues in 2000, and have been under development since. We refer the reader to Milner&amp;rsquo;s book The space and motion of communicating agents or to this site for a brief introduction to bigraphs.</description>
+    </item>
+    
+    <item>
+      <title>Distributed subgraph isomorphism</title>
+      <link>https://Breb980.github.io/mads-hugo-site/distributed-subgraph-isomorphism/</link>
+      <pubDate>Thu, 30 Aug 2018 20:07:34 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/distributed-subgraph-isomorphism/</guid>
+      <description>Un algoritmo distribuito per il problema del subgraph isomorphism Anna Becchi - Idriss Riouak Si consideri un sistema multi-agente, in cui una flotta di agenti comunicanti (ad esempio robot o droni) stanno visitando un ambiente sconosciuto (un edificio, un territorio) ed ognuno sta raccogliendo gradualmente informazioni sulla topologia del luogo. Ogni nodo ha una visione soggettiva ed incompleta del contesto e, a causa di limitazione di banda, tempo o memoria dei nodi, non esiste un nodo che ha la visione complessiva del grafo dell&amp;rsquo;ambiente.</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://Breb980.github.io/mads-hugo-site/contacts/</link>
+      <pubDate>Tue, 29 Oct 2013 14:57:21 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/contacts/</guid>
+      <description>The MADS Lab is located to the Department of Mathematics and Computer Science at the University of Udine.
+Address: Via delle Scienze 206 - 33100, Udine - Italy
+Phone: (+39) 043255-8486
+Email: mads@uniud.it
+   .leaflet-control-layers-list label span { margin-left: 6px; font-weight: 200; font-size: medium; }       var map = L.map(&#39;map&#39;).setView([46.080695, 13.212497], 16); var streetLayer = L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, { }); var satelliteLayer = L.tileLayer(&#39;https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/{z}/{x}/{y}?access_token=MAPBOX_ACCESS_TOKEN&#39;, { attribution: &#39;Map data &amp;copy; Mapbox contributors&#39; }); var hybridLayer = L.</description>
+    </item>
+    
+    <item>
+      <title>LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point</title>
+      <link>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</link>
+      <pubDate>Fri, 16 Sep 2022 14:23:17 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</guid>
+      <description>Lorenzo Bazzana, Marino Miculan (MADS lab, University of Udine)
+Michele Codutti (Danieli Automation)
+Operation Technology, i.e. the hardware and software that monitor and control industrial equipment, assets, processes and events, is required to respect high standards of security and reliability. Unfortunately, the analysis and security assessment of OT is less mature than that of Information Technology. In fact, products and components used in industrial plants often have issues that must be dealt with.</description>
+    </item>
+    
+    <item>
+      <title>New members of the MADS lab</title>
+      <link>https://Breb980.github.io/mads-hugo-site/new-members-of-the-mads-lab/</link>
+      <pubDate>Fri, 02 Oct 2020 07:57:58 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/new-members-of-the-mads-lab/</guid>
+      <description>We have the great pleasure to welcome two new members of the MADS laboratory: Michele Pasqua and Claude Stolze. Michele comes from the University of Verona, Italy, and he is an expert in formal models and abstract interpretation, especially for IoT applications. Claude comes from IRIF, the Research Institute on the Foundations of Computer Science at the University of Paris, and has strong expertise in type theory and proof assistants. Welcome!</description>
+    </item>
+    
+    <item>
+      <title>We are hiring! Two fellowship grants within the &#34;IT MATTERS&#34; project</title>
+      <link>https://Breb980.github.io/mads-hugo-site/two-fellowship-grants-it-matters/</link>
+      <pubDate>Mon, 11 May 2020 23:06:30 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/two-fellowship-grants-it-matters/</guid>
+      <description>Two fellowship grants are available at the University of Udine, Italy, for 12 and 18 months respectively, within the Italian national project “IT MATTERS - Methods and Tools for Trustworthy Smart Systems”. The fellowships are research-only, with no teaching or administrative obligations.
+Deadline for application is May 31, 2020, 14:00 CEST. Having a PhD is appreciated but not required. Starting date is (partly) negotiable. Both positions can be extended for another 12 months (subject to funding availability).</description>
+    </item>
+    
+    <item>
+      <title>&#34;Easter&#39;s Eve&#34;: new version of jLibBig released</title>
+      <link>https://Breb980.github.io/mads-hugo-site/easters-eve/</link>
+      <pubDate>Sat, 11 Apr 2020 19:48:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/easters-eve/</guid>
+      <description>A new version of jLibBig, the Java Library for Bigraphs, has been released today. The new version is codenamed &amp;ldquo;Easter&amp;rsquo;s Eve&amp;rdquo;.
+With respect to the previous one, these are the main improvements:
+ Added the support for (Local) Directed Bigraphs, a generalisation of pure bigraphs where the link graph structure is more symmetric. Ported the Matching algorithm to version 4 of Choco solver. Various bug fixings and improvements.  As usual, the JAR library is available for download at the corresponding web page.</description>
+    </item>
+    
+    <item>
+      <title>IT MATTERS starts!</title>
+      <link>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</link>
+      <pubDate>Wed, 16 Oct 2019 21:39:50 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</guid>
+      <description>The kick-off meeting of the PRIN 2017 project &amp;ldquo;IT MATTERS&amp;rdquo; has been in Pisa, on October 14. About 40 people have gathered, from the universities of Pisa, Udine, Camerino, the IMT of Lucca, the GSSI of L&amp;rsquo;Aquila and the CNR. The project is about trustworthiness of &amp;ldquo;smart systems&amp;rdquo;, so the MADS lab will have the possibility to work in strict contact with the top research groups of the field, in Italy and abroad.</description>
+    </item>
+    
+    <item>
+      <title>The Sixth Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/sixth/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/sixth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Fifth Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/fifth/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/fifth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Fourth Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/fourth/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/fourth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Third Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/third/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/third/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The Second Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/second/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/second/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>The First Thing</title>
+      <link>https://Breb980.github.io/mads-hugo-site/posts/first/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/posts/first/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://Breb980.github.io/mads-hugo-site/downloads/</link>
+      <pubDate>Tue, 29 Oct 2013 15:09:03 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/downloads/</guid>
+      <description>Software tools we develop.</description>
+    </item>
+    
+  </channel>
+</rss>

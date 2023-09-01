@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>no responses on MADS - Models and Applications of Distributed Systems</title>
+    <link>https://Breb980.github.io/mads-hugo-site/tags/no-responses/</link>
+    <description>Recent content in no responses on MADS - Models and Applications of Distributed Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 14:23:17 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/tags/no-responses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point</title>
+      <link>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</link>
+      <pubDate>Fri, 16 Sep 2022 14:23:17 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/lord-of-the-orings/</guid>
+      <description>Lorenzo Bazzana, Marino Miculan (MADS lab, University of Udine)
+Michele Codutti (Danieli Automation)
+Operation Technology, i.e. the hardware and software that monitor and control industrial equipment, assets, processes and events, is required to respect high standards of security and reliability. Unfortunately, the analysis and security assessment of OT is less mature than that of Information Technology. In fact, products and components used in industrial plants often have issues that must be dealt with.</description>
+    </item>
+    
+    <item>
+      <title>New members of the MADS lab</title>
+      <link>https://Breb980.github.io/mads-hugo-site/new-members-of-the-mads-lab/</link>
+      <pubDate>Fri, 02 Oct 2020 07:57:58 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/new-members-of-the-mads-lab/</guid>
+      <description>We have the great pleasure to welcome two new members of the MADS laboratory: Michele Pasqua and Claude Stolze. Michele comes from the University of Verona, Italy, and he is an expert in formal models and abstract interpretation, especially for IoT applications. Claude comes from IRIF, the Research Institute on the Foundations of Computer Science at the University of Paris, and has strong expertise in type theory and proof assistants. Welcome!</description>
+    </item>
+    
+    <item>
+      <title>We are hiring! Two fellowship grants within the &#34;IT MATTERS&#34; project</title>
+      <link>https://Breb980.github.io/mads-hugo-site/two-fellowship-grants-it-matters/</link>
+      <pubDate>Mon, 11 May 2020 23:06:30 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/two-fellowship-grants-it-matters/</guid>
+      <description>Two fellowship grants are available at the University of Udine, Italy, for 12 and 18 months respectively, within the Italian national project “IT MATTERS - Methods and Tools for Trustworthy Smart Systems”. The fellowships are research-only, with no teaching or administrative obligations.
+Deadline for application is May 31, 2020, 14:00 CEST. Having a PhD is appreciated but not required. Starting date is (partly) negotiable. Both positions can be extended for another 12 months (subject to funding availability).</description>
+    </item>
+    
+    <item>
+      <title>&#34;Easter&#39;s Eve&#34;: new version of jLibBig released</title>
+      <link>https://Breb980.github.io/mads-hugo-site/easters-eve/</link>
+      <pubDate>Sat, 11 Apr 2020 19:48:00 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/easters-eve/</guid>
+      <description>A new version of jLibBig, the Java Library for Bigraphs, has been released today. The new version is codenamed &amp;ldquo;Easter&amp;rsquo;s Eve&amp;rdquo;.
+With respect to the previous one, these are the main improvements:
+ Added the support for (Local) Directed Bigraphs, a generalisation of pure bigraphs where the link graph structure is more symmetric. Ported the Matching algorithm to version 4 of Choco solver. Various bug fixings and improvements.  As usual, the JAR library is available for download at the corresponding web page.</description>
+    </item>
+    
+    <item>
+      <title>IT MATTERS starts!</title>
+      <link>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</link>
+      <pubDate>Wed, 16 Oct 2019 21:39:50 +0000</pubDate>
+      
+      <guid>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</guid>
+      <description>The kick-off meeting of the PRIN 2017 project &amp;ldquo;IT MATTERS&amp;rdquo; has been in Pisa, on October 14. About 40 people have gathered, from the universities of Pisa, Udine, Camerino, the IMT of Lucca, the GSSI of L&amp;rsquo;Aquila and the CNR. The project is about trustworthiness of &amp;ldquo;smart systems&amp;rdquo;, so the MADS lab will have the possibility to work in strict contact with the top research groups of the field, in Italy and abroad.</description>
+    </item>
+    
+  </channel>
+</rss>
