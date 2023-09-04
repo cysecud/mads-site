@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search on MADS - Models and Applications of Distributed Systems</title>
-    <link>https://Breb980.github.io/search/</link>
+    <link>https://Breb980.github.io/mads-hugo-site/search/</link>
     <description>Recent content in Search on MADS - Models and Applications of Distributed Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright><atom:link href="https://Breb980.github.io/search/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright><atom:link href="https://Breb980.github.io/mads-hugo-site/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
