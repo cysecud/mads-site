@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on MADS - Models and Applications of Distributed Systems</title>
-    <link>https://Breb980.github.io/tags/research/</link>
+    <link>https://Breb980.github.io/mads-hugo-site/tags/research/</link>
     <description>Recent content in Research on MADS - Models and Applications of Distributed Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2023 MADS lab - Models and Applications of Distributed Systems</copyright>
-    <lastBuildDate>Mon, 11 May 2020 23:06:30 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2020 23:06:30 +0000</lastBuildDate><atom:link href="https://Breb980.github.io/mads-hugo-site/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We are hiring! Two fellowship grants within the &#34;IT MATTERS&#34; project</title>
-      <link>https://Breb980.github.io/two-fellowship-grants-it-matters/</link>
+      <link>https://Breb980.github.io/mads-hugo-site/two-fellowship-grants-it-matters/</link>
       <pubDate>Mon, 11 May 2020 23:06:30 +0000</pubDate>
       
-      <guid>https://Breb980.github.io/two-fellowship-grants-it-matters/</guid>
+      <guid>https://Breb980.github.io/mads-hugo-site/two-fellowship-grants-it-matters/</guid>
       <description>Two fellowship grants are available at the University of Udine, Italy, for 12 and 18 months respectively, within the Italian national project “IT MATTERS - Methods and Tools for Trustworthy Smart Systems”. The fellowships are research-only, with no teaching or administrative obligations.
 Deadline for application is May 31, 2020, 14:00 CEST. Having a PhD is appreciated but not required. Starting date is (partly) negotiable. Both positions can be extended for another 12 months (subject to funding availability).</description>
     </item>
     
     <item>
       <title>&#34;Easter&#39;s Eve&#34;: new version of jLibBig released</title>
-      <link>https://Breb980.github.io/easters-eve/</link>
+      <link>https://Breb980.github.io/mads-hugo-site/easters-eve/</link>
       <pubDate>Sat, 11 Apr 2020 19:48:00 +0000</pubDate>
       
-      <guid>https://Breb980.github.io/easters-eve/</guid>
+      <guid>https://Breb980.github.io/mads-hugo-site/easters-eve/</guid>
       <description>A new version of jLibBig, the Java Library for Bigraphs, has been released today. The new version is codenamed &amp;ldquo;Easter&amp;rsquo;s Eve&amp;rdquo;.
 With respect to the previous one, these are the main improvements:
  Added the support for (Local) Directed Bigraphs, a generalisation of pure bigraphs where the link graph structure is more symmetric. Ported the Matching algorithm to version 4 of Choco solver. Various bug fixings and improvements.  As usual, the JAR library is available for download at the corresponding web page.</description>
@@ -31,10 +31,10 @@ With respect to the previous one, these are the main improvements:
     
     <item>
       <title>IT MATTERS starts!</title>
-      <link>https://Breb980.github.io/it-matters-starts/</link>
+      <link>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</link>
       <pubDate>Wed, 16 Oct 2019 21:39:50 +0000</pubDate>
       
-      <guid>https://Breb980.github.io/it-matters-starts/</guid>
+      <guid>https://Breb980.github.io/mads-hugo-site/it-matters-starts/</guid>
       <description>The kick-off meeting of the PRIN 2017 project &amp;ldquo;IT MATTERS&amp;rdquo; has been in Pisa, on October 14. About 40 people have gathered, from the universities of Pisa, Udine, Camerino, the IMT of Lucca, the GSSI of L&amp;rsquo;Aquila and the CNR. The project is about trustworthiness of &amp;ldquo;smart systems&amp;rdquo;, so the MADS lab will have the possibility to work in strict contact with the top research groups of the field, in Italy and abroad.</description>
     </item>
     
