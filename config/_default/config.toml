@@ -1,4 +1,4 @@
-baseURL = "https://Breb980.github.io/mads-hugo-site"
+baseURL = "https://Breb980.github.io/"
 languageCode = "en-us"
 
 theme = "hugo-arcana"
