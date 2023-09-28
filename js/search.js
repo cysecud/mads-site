@@ -86,7 +86,7 @@ if (query) {
   displayResults(uniqueResults, window.store)
 
   //rimpiazza il titolo nella pagina
-  document.getElementById('search-title').innerText = 'Search Results for ' + query
+  document.getElementById('search-title').innerText = 'Search results for ' + query
 }
 
 // esegue la sottolineatura dei termini trovati
