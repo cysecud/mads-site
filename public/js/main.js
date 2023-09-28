@@ -51,24 +51,14 @@
                     '<nav>' +
                         $('#nav').navList() +
                     '</nav>' + 
-                    //'<br>' + '<button id="search-input" style="min-width:2em;">Search</button>' +
-                    /*`<h4 style="font-size: 1.5em; margin-top: 1em;">News & Events</h4>
-                    <nav class="links">
-                        <a class="link depth-0" href="/content/lord-of-the-orings">LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point</a> 
-                        <a class="link depth-0" href="#">New members of the MADS lab</a>
-                        <a class="link depth-0" href="#">We are hiring! Two fellowship grants within the “IT MATTERS” project</a>
-                        <a class="link depth-0" href="#">“Easter’s Eve”: new version of jLibBig released</a>
-                        <a class="link depth-0" href="#">IT MATTERS starts!</a>
-                    </nav>` +*/
-                    //'<script src="search.js"></script>' +
-                    `<style>
-                    ::-moz-placeholder {
-                        color: #fff;
-                        font-weight: 550;
-                    }
-                    </style>` +
-                    `<form  id="search-form" action="/search" method="get">
-                    <input class="blackbarMobile" type="text" id="search-input" name="query" placeholder="🔍  Search..." style="width: 100%; height:50px;">
+                    //`<style>
+                   // ::-moz-placeholder {
+                    //    color: #fff;
+                    //    font-weight: 550;
+                    //}
+                    //</style>` +
+                    `<form  id="search-form" action="/mads-hugo-site/search/" method="get">
+                    <input class="blackbarMobile" type="text" name="query" placeholder="🔍  Search..." style="width: 100%; height:50px;">
                     </form>` +
                 '</div>'
             )

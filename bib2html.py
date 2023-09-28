@@ -15,6 +15,7 @@ with open('publications.bib') as bibtex_file:
 # Prepara i dati per il template
 entries = bib_database.entries
 
+
 #Raggruppa le pubblicazioni per anno
 #se si desidera raggrupparle per altri campi, basta modificare l'entry
 publications_by_year = {}

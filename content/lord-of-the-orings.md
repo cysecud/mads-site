@@ -6,7 +6,6 @@ tags: ['admin', 'Cybersecurity', 'Industrial Partnership', 'Trustworthy Smart Sy
 sidebar_right: sidebar3
 weight: 45
 custom_class: custom-title-font-lord
-#TODO mettere link a twitter, facebook e google+(ma chi lo usa?)
 ---
 
 **Lorenzo Bazzana, Marino Miculan (MADS lab, University of Udine)  

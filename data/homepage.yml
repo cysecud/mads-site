@@ -9,6 +9,18 @@ banner:
 items:
   - type: cta
     contents: News & Events
+  - type: news-menu
+    pages:
+      - title: "LORD OF THE ORINGS (CVE-2022-3203): Vulnerability Analysis of an Industrial Access Point"
+        url: /mads-hugo-site/lord-of-the-orings/
+      - title: New members of the MADS lab
+        url: /mads-hugo-site/new-members-of-the-mads-lab/
+      - title: "We are hiring! Two fellowship grants within the “IT MATTERS” project"
+        url: /mads-hugo-site/two-fellowship-grants-it-matters/
+      - title: "“Easter’s Eve”: new version of jLibBig released"
+        url: /mads-hugo-site/easters-eve/
+      - title: IT MATTERS starts!
+        url: /mads-hugo-site/it-matters-starts/
   - type: highlights
     items_per_row: 3
     items:

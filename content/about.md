@@ -1,7 +1,6 @@
 ---
 title: Home
 menu: main
-#image: images/Cybersecurity-2018.jpg
 date: Tue, 24 Sep 2013 11:59:55 +0000
 weight: 10
 sidebar_right: sidebar3

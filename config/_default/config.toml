@@ -8,7 +8,6 @@ copyright = "Copyright © 2023 MADS lab - Models and Applications of Distributed
 [taxonomies]
     tag = "tags"
 
-
 [params]
     description = "A business/corporate style responsive site template."
     show_post_dates = false
